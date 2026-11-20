@@ -1,7 +1,12 @@
 # Ilu Reader Privacy Policy
 
-**Operator:** Ilu Reader project. **Contact:** vasily.bakshaev@gmail.com.
-**Publication:** https://vasilybakshaev.github.io/ilu-reader-legal/privacy-policy.html. **Effective date:** November 23, 2026.
+**Operator:** Ilu Reader project
+
+**Contact:** vasily.bakshaev@gmail.com
+
+**Publication:** https://vasilybakshaev.github.io/ilu-reader-legal/privacy-policy.html
+
+**Effective date:** November 23, 2026
 
 ## 1. In brief
 

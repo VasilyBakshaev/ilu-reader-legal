@@ -13,3 +13,9 @@
 - `THIRD_PARTY_NOTICES.md` — font attribution; both typefaces are SIL OFL 1.1,
   full license texts are in `fonts/`.
 - `icon.png` — app icon.
+
+When a document in `docs/` changes, mirror it in the matching HTML page: the
+header fields (`Operator`, `Contact`, `Publication`, `Effective date`) form one
+`.meta` paragraph separated by `<br>`, e-mail addresses become `mailto:` links,
+links to the sibling document point to `*.html`, and the `<h1>` keeps the short
+document name shown in the site header (`Privacy Policy`, `Terms of Use`).

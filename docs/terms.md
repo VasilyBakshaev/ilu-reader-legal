@@ -1,7 +1,12 @@
 # Ilu Reader Terms of Use
 
-**Operator:** Ilu Reader project, vasily.bakshaev@gmail.com, https://vasilybakshaev.github.io/ilu-reader-legal/terms.html.
-**Effective date:** November 23, 2026.
+**Operator:** Ilu Reader project
+
+**Contact:** vasily.bakshaev@gmail.com
+
+**Publication:** https://vasilybakshaev.github.io/ilu-reader-legal/terms.html
+
+**Effective date:** November 23, 2026
 
 ## 1. General provisions
 
